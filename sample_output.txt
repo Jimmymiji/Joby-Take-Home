@@ -1,0 +1,40 @@
+4 vehicles made by Alpha Company are added to the simulator
+6 vehicles made by Bravo Company are added to the simulator
+5 vehicles made by Charlie Company are added to the simulator
+3 vehicles made by Delta Company are added to the simulator
+2 vehicles made by Echo Company are added to the simulator
+Company Name: Echo Company
+average flight time per flight: 0.618534
+average distance traveled per flight: 18.556
+average time charging per charge session: 1.76293
+total number of faults: 1.50922
+total number of passenger miles: 148.448
+----------------------------------------------------------
+Company Name: Charlie Company
+average flight time per flight: 0.625
+average distance traveled per flight: 100
+average time charging per charge session: 1.12
+total number of faults: 0.3125
+total number of passenger miles: 3000
+----------------------------------------------------------
+Company Name: Bravo Company
+average flight time per flight: 0.651389
+average distance traveled per flight: 65.1389
+average time charging per charge session: 1.425
+total number of faults: 0.781667
+total number of passenger miles: 3908.33
+----------------------------------------------------------
+Company Name: Alpha Company
+average flight time per flight: 1.66667
+average distance traveled per flight: 200
+average time charging per charge session: 1.33333
+total number of faults: 1.66667
+total number of passenger miles: 3200
+----------------------------------------------------------
+Company Name: Delta Company
+average flight time per flight: 1.66667
+average distance traveled per flight: 150
+average time charging per charge session: 1.33333
+total number of faults: 1.1
+total number of passenger miles: 900
+----------------------------------------------------------
